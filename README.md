@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 bienvenue dan mon portefolio
 
-<!--
-**Jowiip/Jowiip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiant ingénieur à l’ECE Paris | Spécialisation Data & IA  
+💧 Passionné par les projets liant **technologie, durabilité et innovation**  
+💡 Actuellement : Développement de solutions techniques autour de la **data**, de l’**IA** et de l’**IoT**
 
-Here are some ideas to get you started:
+### 🎢 [JJAM Attractions](https://github.com/JosselinPlatiau/JJAM-Attractions)
+> Application Java de gestion de parc d’attractions (Swing + MySQL + MVC)  
+> • Interface client/admin – Réservations – Promotions – Roue de la chance  
+> • Technologies : Java, Swing, MySQL, JDBC, IntelliJ IDEA  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌍 [EcoTech AI](https://github.com/JosselinPlatiau/EcoTech-AI)
+> Projet Agorize – IA pour l’optimisation du système SAWH (Sustainable Air-to-Water Harvesting)  
+> • Monitoring temps réel – Optimisation IA – Maintenance prédictive  
+> • Technologies : Python, TensorFlow, Pandas, Matplotlib  
+
+### 🗣️ [Neural Speech](https://github.com/JosselinPlatiau/Neural-Speech)
+> Projet d’ingénierie : module FP4 – Reconnaissance vocale et traitement de signal  
+> • Implémentation et explication technique grand public  
+> • Technologies : Python, Deep Learning, CNN  
+
+## 🧠 Compétences techniques
+
+**Langages :** Python, Java, C/C++, SQL, MATLAB  
+**Outils :** IntelliJ IDEA, VS Code, Jupyter Notebook, Arduino IDE, WampServer  
+**Data & IA :** Pandas, NumPy, Matplotlib, TensorFlow, scikit-learn  
+**Bases de données :** MySQL, phpMyAdmin  
+**Réseaux :** Cisco Packet Tracer  
+**Gestion de projet :** Git, GitHub, Trello, Notion, Microsoft Teams  
+
+📧 jossplatiau@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/josselin-platiau)  
