@@ -4,9 +4,9 @@
 💧 Passionné par les projets liant **technologie, durabilité et innovation**  
 💡 Actuellement : Développement de solutions techniques autour de la **data**, de l’**IA** et de l’**IoT**
 
-### 🎢 [JJAM Attractions](https://github.com/JosselinPlatiau/JJAM-Attractions)
+### 🎢 [https://github.com/Jowiip/app-parc-attractions-java)
 > Application Java de gestion de parc d’attractions (Swing + MySQL + MVC)  
-> • Interface client/admin – Réservations – Promotions – Roue de la chance  
+> • Interface client/admin – Réservations & paiements – Promotions – historique de commandes - billet et ticket 
 > • Technologies : Java, Swing, MySQL, JDBC, IntelliJ IDEA  
 
 ### 🌍 [EcoTech AI](https://github.com/JosselinPlatiau/EcoTech-AI)
