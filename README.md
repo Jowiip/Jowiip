@@ -17,9 +17,8 @@
  
 
 ### 🗣️ [notebook recommandation_investissement immo](https://github.com/Jowiip/recommandation-investissement-immo)
-> Projet d’ingénierie : module FP4 – Reconnaissance vocale et traitement de signal  
-> • Implémentation et explication technique grand public  
-> • Technologies : Python, Deep Learning, CNN  
+> Notebook Jupyter d’analyse et de recommandation d’investissement à partir de données foncières.  
+> **Technos :** Python, pandas, matplotlib.
 
 ## 🧠 Compétences techniques
 
