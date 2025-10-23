@@ -4,7 +4,7 @@
 💧 Passionné par les projets liant **technologie, durabilité et innovation**  
 💡 Actuellement : Développement de solutions techniques autour de la **data**, de l’**IA** et de l’**IoT**
 
-### 🎢 [https://github.com/Jowiip/app-parc-attractions-java)
+### 🎢 [Applications parc d'attractions JAVA](https://github.com/Jowiip/app-parc-attractions-java)
 > Application Java de gestion de parc d’attractions (Swing + MySQL + MVC)  
 > • Interface client/admin – Réservations & paiements – Promotions – historique de commandes - billet et ticket 
 > • Technologies : Java, Swing, MySQL, JDBC, IntelliJ IDEA  
