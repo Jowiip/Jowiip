@@ -30,4 +30,4 @@
 **Gestion de projet :** Git, GitHub, Trello, Notion, Microsoft Teams  
 
 📧 jossplatiau@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/josselin-platiau)  
+🔗 [LinkedIn](https://www.linkedin.com/in/josselin-platiau-a95903269/)  
