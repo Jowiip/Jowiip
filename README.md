@@ -9,10 +9,12 @@
 > • Interface client/admin – Réservations & paiements – Promotions – historique de commandes - billet et ticket 
 > • Technologies : Java, Swing, MySQL, JDBC, IntelliJ IDEA  
 
-### 🌍 [EcoTech AI](https://github.com/JosselinPlatiau/EcoTech-AI)
-> Projet Agorize – IA pour l’optimisation du système SAWH (Sustainable Air-to-Water Harvesting)  
-> • Monitoring temps réel – Optimisation IA – Maintenance prédictive  
-> • Technologies : Python, TensorFlow, Pandas, Matplotlib  
+### 🌍 [Machine Learning – Hackathon Titanic Survival Challenge]([https://github.com/JosselinPlatiau/EcoTech-AI](https://github.com/Jowiip/ML-Hackathon-challenge-titanic-prediction))
+>Projet de machine learning réalisé dans le cadre d’un hackathon.  
+>Prédiction de la survie des passagers du Titanic à partir du dataset Kaggle.  
+>**Score : 80,622 % – 1er de la promotion**  
+>**Technos :** Python, scikit-learn, pandas, matplotlib
+ 
 
 ### 🗣️ [Neural Speech](https://github.com/JosselinPlatiau/Neural-Speech)
 > Projet d’ingénierie : module FP4 – Reconnaissance vocale et traitement de signal  
