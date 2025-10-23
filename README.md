@@ -9,7 +9,7 @@
 > • Interface client/admin – Réservations & paiements – Promotions – historique de commandes - billet et ticket 
 > • Technologies : Java, Swing, MySQL, JDBC, IntelliJ IDEA  
 
-### 🌍 [Machine Learning – Hackathon Titanic Survival Challenge](https://github.com/JosselinPlatiau/EcoTech-AI](https://github.com/Jowiip/ML-Hackathon-challenge-titanic-prediction)
+### 🌍 [Machine Learning – Hackathon Titanic Survival Challenge](https://github.com/Jowiip/ML-Hackathon-challenge-titanic-prediction)
 >Projet de machine learning réalisé dans le cadre d’un hackathon.  
 >Prédiction de la survie des passagers du Titanic à partir du dataset Kaggle.  
 >**Score : 80,622 % – 1er de la promotion**  
