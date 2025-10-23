@@ -16,7 +16,7 @@
 >**Technos :** Python, scikit-learn, pandas, matplotlib
  
 
-### 🗣️ [notebook recommandation_investissement immo]([https://github.com/JosselinPlatiau/Neural-Speech](https://github.com/Jowiip/recommandation-investissement-immo))
+### 🗣️ [notebook recommandation_investissement immo](https://github.com/JosselinPlatiau/Neural-Speech](https://github.com/Jowiip/recommandation-investissement-immo)
 > Projet d’ingénierie : module FP4 – Reconnaissance vocale et traitement de signal  
 > • Implémentation et explication technique grand public  
 > • Technologies : Python, Deep Learning, CNN  
