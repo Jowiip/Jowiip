@@ -1,4 +1,4 @@
-# 👋 bienvenue dan mon portefolio
+# 👋 Bienvenue dan mon portefolio
 
 🎓 Étudiant ingénieur à l’ECE Paris | Spécialisation Data & IA  
 💧 Passionné par les projets liant **technologie, durabilité et innovation**  
