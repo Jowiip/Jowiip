@@ -32,6 +32,12 @@
 > Notebook Jupyter d’analyse et de recommandation d’investissement à partir de données foncières.  
 > **Technos :** Python, pandas, matplotlib.
 
+### ⚙️ [Optimisation d’une ligne d’assemblage – Projet C](https://github.com/Jowiip/Optimisation-ligne-assemblage)
+> Projet académique visant à **analyser et optimiser une ligne d’assemblage industrielle**.  
+> Implémentation d’algorithmes de gestion des précédences, exclusions et cycles pour équilibrer les postes de travail.  
+> **Technos :** C, CLion, CMake
+
+
 ## 🧠 Compétences techniques
 
 **Langages :** Python, Java, C/C++, SQL, MATLAB  
