@@ -4,6 +4,12 @@
 💧 Passionné par les projets liant **technologie, durabilité et innovation**  
 💡 Actuellement : Développement de solutions techniques autour de la **data**, de l’**IA** et de l’**IoT**
 
+### 🧩 [Jeu du Labyrinthe – Projet C](https://github.com/Jowiip/Jeu-labyrinthe-C)
+> Jeu de société numérique développé en **langage C**, inspiré du jeu *Le Labyrinthe*.  
+> Permet à **2 à 4 joueurs** de s’affronter sur un plateau dynamique avec trésors, pions et tuiles rotatives.  
+> Inclut un système de **sauvegarde**, un **menu interactif** et une **génération aléatoire du plateau** à chaque partie.  
+> **Technos :** C, CLion, conio.h, windows.h
+
 ### 🎢 [Applications parc d'attractions JAVA](https://github.com/Jowiip/app-parc-attractions-java)
 > Application Java de gestion de parc d’attractions (Swing + MySQL + MVC)  
 > • Interface client/admin – Réservations & paiements – Promotions – historique de commandes - billet et ticket 
