@@ -14,7 +14,13 @@
 >Prédiction de la survie des passagers du Titanic à partir du dataset Kaggle.  
 >**Score : 80,622 % – 1er de la promotion**  
 >**Technos :** Python, scikit-learn, pandas, matplotlib
- 
+
+### 🌈 [Jeu Adventure Time – Projet C & Allegro](https://github.com/Jowiip/Jeu-adventure-time-Allegro)
+> Jeu complet développé en langage **C** avec la librairie **Allegro 5**, recréant un univers inspiré de *Adventure Time*.  
+> Monde interactif et immersif intégrant plusieurs mini-jeux :  
+> 🐍 Snake – 🎸 Hero Guitare – 🐧 Pingouin – 🌊 Rivière – 🎰 Jackpot – 🎾 Tennis  
+> **Technos :** C, Allegro 5, CLion, CMake
+
 
 ### 🗣️ [notebook recommandation_investissement immo](https://github.com/Jowiip/recommandation-investissement-immo)
 > Notebook Jupyter d’analyse et de recommandation d’investissement à partir de données foncières.  
