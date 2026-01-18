@@ -1,8 +1,7 @@
 # 👋 Bienvenue dan mon portefolio
 
 🎓 Étudiant ingénieur à l’ECE Paris | Spécialisation Data & IA  
-💧 Passionné par les projets liant **technologie, durabilité et innovation**  
-💡 Actuellement : Développement de solutions techniques autour de la **data**, de l’**IA** et de l’**IoT**
+💧Passionné par les projets liant **technologie et innovation**  
 
 ### 🧩 [Jeu du Labyrinthe – Projet C](https://github.com/Jowiip/Jeu-labyrinthe-C)
 > Jeu de société numérique développé en **langage C**, inspiré du jeu *Le Labyrinthe*.  
